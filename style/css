@@ -1,0 +1,53 @@
+.qoute-bar{
+	width:100% !important;
+	height: 70px !important;
+	background-color: tomato !important;
+	opacity: .9;
+}
+
+.qoute-bar h1{
+	color: white;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+#slider{
+	margin-top: 100px;
+}
+
+#slider .item{
+	height:700px;
+}
+
+#slide1{
+	background:url('carousel-img/pexels-photo-606506.jpeg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#slide2{
+	background:url('carousel-img/pexels-photo-693794.jpeg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#slide3{
+	background:url('carousel-img/pexels-photo-772946.jpeg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#slide4{
+	background:url('carousel-img/pexels-photo-775998.jpeg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
